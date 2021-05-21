@@ -1,0 +1,2 @@
+jug_xl_testing.sif	https://eicweb.phy.anl.gov/api/v4/projects/290/jobs/artifacts/master/raw/build/jug_xl.sif?job=jug_xl:singularity:default
+jug_xl_v3.0-stable.sif	https://eicweb.phy.anl.gov/api/v4/projects/290/jobs/artifacts/v3.0-stable/raw/build/jug_xl.sif?job=jug_xl:singularity:default
